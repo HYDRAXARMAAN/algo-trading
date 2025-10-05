@@ -1,0 +1,6 @@
+Flask
+flask-cors
+SQLAlchemy
+psycopg2-binary  # For PostgreSQL
+requests
+python-dotenv
